@@ -14,7 +14,7 @@
     "mongoose": "^5.3.15",
     "node-fetch": "^2.3.0"
   },
-  "engines":{
+  "engines": {
     "node": "9.7.1",
     "npm": "5.6.0"
   }
